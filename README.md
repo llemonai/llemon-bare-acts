@@ -12,11 +12,11 @@ Get the files from the [latest release](../../releases/latest):
 
 | System | File |
 |---|---|
-| Windows 10 and 11 (64-bit) | `llemonAI-Bare-Acts-1.0.2.exe` (runs as is, no installer) |
-| Android 8 and later | `llemonAI-Bare-Acts-1.0.2-android.apk` |
-| macOS 12 and later (Apple Silicon and Intel) | `llemonAI-Bare-Acts-1.0.2-macos.dmg` (or the `.zip`) |
+| Windows 10 and 11 (64-bit) | `llemonAI-Bare-Acts-1.0.3.exe` (runs as is, no installer) |
+| Android 8 and later | `llemonAI-Bare-Acts-1.0.3-android.apk` |
+| macOS 12 and later (Apple Silicon and Intel) | `llemonAI-Bare-Acts-1.0.3-macos.dmg` (or the `.zip`) |
 
-`SHA256SUMS-1.0.2.txt` lists each file's SHA-256 checksum.
+`SHA256SUMS-1.0.3.txt` lists each file's SHA-256 checksum.
 
 **macOS, first launch:** the app is not notarised, so macOS stops it the first time. Open **System Settings > Privacy & Security**, scroll down and click **Open Anyway** next to llemonAI Bare Acts.
 
@@ -26,7 +26,7 @@ Get the files from the [latest release](../../releases/latest):
 - State Acts for every state and union territory: pick the state once.
 - More than 4,600 repealed central Acts in their own tab, each showing the Act that repealed it.
 - The Acts you have opened are listed first, the most recent at the top.
-- If llemonAI PDF Annotator is on the same device, one button switches to it.
+- If llemonAI PDF Annotator is on the same device, one button switches to it (or brings it to the front if it is already open), and PDF Annotator 2.0.5 has a button that switches back.
 - Highlight, underline, pen and notes, kept with each Act automatically. Search inside an Act.
 - An Act you open stays on your device and opens later without the internet. Once a week the app checks India Code for newer texts.
 
